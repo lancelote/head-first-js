@@ -8,6 +8,7 @@ and Elisabeth Robson
 
 - [Chapter 1. Getting your feet wet](src/ch01)
   - [Embed JS in HTML](src/ch01/embed_js_in_html.html)
+  - [While Loop](src/ch01/while_loop.html)
 - Chapter 2. Going further
 - Chapter 3. Getting functional
 - Chapter 4. Arrays
